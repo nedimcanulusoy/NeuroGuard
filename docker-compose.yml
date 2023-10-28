@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    environment:
+      - APP_TYPE=api
+    ports:
+      - "8000:8000"
+  interface:
+    build: .
+    environment:
+      - APP_TYPE=interface
+    ports:
+      - "8501:8501"
