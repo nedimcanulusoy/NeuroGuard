@@ -1,6 +1,6 @@
 <div align="center">
   <h1>NeuroGuard: Safeguarding Prompted Platforms</h1>
-  <img src="https://img.shields.io/badge/Python-3.11-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Python-3.8-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Project Status">
   <img src="https://img.shields.io/badge/License-GPL--3.0-yellow.svg" alt="License">
 </div>
