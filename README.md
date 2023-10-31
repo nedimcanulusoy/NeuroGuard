@@ -1,10 +1,17 @@
-# NeuroGuard: Safeguarding Prompted Platforms
+<div align="center">
+  <h1>NeuroGuard: Safeguarding Prompted Platforms</h1>
+  <img src="https://img.shields.io/badge/Python-3.11-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Project Status">
+  <img src="https://img.shields.io/badge/License-GPL--3.0-yellow.svg" alt="License">
+</div>
+
+---
 
 NeuroGuard is a dedicated project designed to detect prompt injections within prompting platforms, thus providing robust protection against prompt attacks.
 
 ---
 
-## Table of Contents
+Table of Contents
 
 - [Project Overview](#project-overview)
 - [Comparative Analysis](#comparative-analysis)
@@ -130,3 +137,7 @@ In summary, ranking of the model performances based on the results is;
 ## License
 
 This project is licensed under the terms provided in the `LICENSE` file.
+
+## Contributions
+
+Contributions to NeuroGuard are welcome! If you have ideas for improvement, feature requests, bug reports, or want to contribute code or documentation, please feel free to open an issue or create a pull request on GitHub. We appreciate your contributions to make NeuroGuard even better.
