@@ -5,6 +5,12 @@
   <img src="https://img.shields.io/badge/License-GPL--3.0-yellow.svg" alt="License">
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-blue.svg" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PyTorch-red.svg" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Docker-blue.svg" alt="Docker">
+</div>
+
 ---
 
 NeuroGuard is a dedicated project designed to detect prompt injections within prompting platforms, thus providing robust protection against prompt attacks.
@@ -68,6 +74,8 @@ Once the Docker container is up, you can access the NeuroGuard interface and API
 Further documentation on API endpoints and interface operations can be found in `neuroguard_api.py` and `neuroguard_interface.py` respectively.
 
 ## Project Structure
+
+This project leverages PyTorch for deep learning, FastAPI for building the API, and Docker for containerization.
 
 - `ng_api/`: Contains the NeuroGuard API logic.
 - `ng_interface/`: Handles the interface components and interactivity.
