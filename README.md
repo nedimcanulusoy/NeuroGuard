@@ -6,9 +6,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-blue.svg" alt="FastAPI">
+  <img src="https://img.shields.io/badge/FastAPI-cyan.svg" alt="FastAPI">
   <img src="https://img.shields.io/badge/PyTorch-red.svg" alt="PyTorch">
   <img src="https://img.shields.io/badge/Docker-blue.svg" alt="Docker">
+  <img src="https://img.shields.io/badge/Streamlit-orange.svg" alt="Streamlit">
 </div>
 
 ---
@@ -77,7 +78,7 @@ Further documentation on API endpoints and interface operations can be found in 
 
 ## Project Structure
 
-This project leverages PyTorch for deep learning, FastAPI for building the API, and Docker for containerization.
+This project leverages PyTorch for deep learning, FastAPI for building the API, Docker for containerization and Streamlit for web interface.
 
 - `ng_api/`: Contains the NeuroGuard API logic.
 - `ng_interface/`: Handles the interface components and interactivity.
