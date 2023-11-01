@@ -46,7 +46,11 @@ Neuroguard has rigorously tested four approaches to benchmark their performance 
 
 Experience the live demo firsthand by clicking the button below, give it a try and see the software in action!
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](http://www.nedimcan.software/interface/)
+<div align="center">
+  
+    [![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](http://www.nedimcan.software/interface/)
+
+</div>
 
 ## Installation
 
