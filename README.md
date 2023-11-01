@@ -48,7 +48,7 @@ Experience the live demo firsthand by clicking the button below, give it a try a
 
 <div align="center">
   
-    [![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](http://www.nedimcan.software/interface/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](http://www.nedimcan.software/interface/)
 
 </div>
 
